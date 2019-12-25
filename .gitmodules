@@ -1,3 +1,4 @@
 [submodule "modules/box2d"]
 	path = modules/box2d
 	url = git@github.com:lightspeedlucas/godot-box2d.git
+	branch = master
